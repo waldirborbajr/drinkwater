@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Drink Water</string>
+    <string name="tips">Selecione nos botões abaixo a quantidade de água consumida.</string>
+    <string name="small">250ml</string>
+    <string name="medium">500ml</string>
+    <string name="large">1000ml</string>
 </resources>
