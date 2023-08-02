@@ -4,4 +4,6 @@
     <string name="small">250ml</string>
     <string name="medium">500ml</string>
     <string name="large">1000ml</string>
+    <string name="txt_today">Hoje</string>
+    <string name="undo">Desfazer</string>
 </resources>

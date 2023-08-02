@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="frappe_subtext1">#b5bfe2</color>
     <color name="frappe_surface2">#626880</color>
+    <color name="frappe_crust">#232634</color>
 </resources>
