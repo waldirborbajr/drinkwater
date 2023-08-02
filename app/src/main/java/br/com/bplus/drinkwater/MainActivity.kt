@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun refresh() {
         today = prefs.fetch()
-        findViewById<TextView>(R.id.txt_result).text = today.toString()
+        findViewById<TextView>(R.id.txt_result).text = getString(R.string.result,today)
 
     }
 }
